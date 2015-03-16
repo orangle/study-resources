@@ -9,6 +9,7 @@
 ## PPT
 + [Using ngx_lua in UPYUN](http://www.slideshare.net/timebug/using-ngxlua-in-upyun) ppt 架构
 + [OpenResty Practical Experience](http://www.slideshare.net/xqpmjh/openresty-practical-programming) ppt 使用例子
++ [OpenResty/Lua高级编程技巧](http://www.slideshare.net/xqpmjh/openrestylua)
 + [lua & ngx_lua 的介绍与应用](http://www.slideshare.net/hugodotlau/lua-ngxlua) ppt 从lua 和 nginx两方面将的，架构变迁
 + [Nginx lua](http://www.slideshare.net/harukayon/ngx-lua-public) 日本人的ppt，主要讲了nginx处理请求的几个阶段
 
@@ -28,6 +29,8 @@
 + [OpenResty(ngx_lua)+Moochine 完整实例](https://github.com/appwilldev/moochine-demo)
 + [Simple API with Nginx and PostgreSQL](http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html)
 
+## nginx 相关
++ [Emiller's Guide To Nginx Module Development](http://www.evanmiller.org/nginx-modules-guide.html) nginx 开发，了解nginx运作
 
 ## 社区
 + [openresty-mail-list](https://groups.google.com/forum/#!forum/openresty) google 邮件列表
