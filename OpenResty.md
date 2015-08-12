@@ -5,6 +5,7 @@
 
 + [agentzh 的 Nginx 教程](http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html) 章哥的教程，可以作为开发基础，最好多看2遍，如果刚入门
 + [Presentations](http://openresty.org/#Presentations) 作者的演讲，ppt等信息，看完这里的ppt跟演讲，入门肯定没问题了
++ [openresty 最佳实践](https://github.com/moonbingbing/openresty-best-practices) 国人写的openresty实践总结
 
 ## PPT
 + [Using ngx_lua in UPYUN](http://www.slideshare.net/timebug/using-ngxlua-in-upyun) ppt 架构
@@ -12,6 +13,7 @@
 + [OpenResty/Lua高级编程技巧](http://www.slideshare.net/xqpmjh/openrestylua)
 + [lua & ngx_lua 的介绍与应用](http://www.slideshare.net/hugodotlau/lua-ngxlua) ppt 从lua 和 nginx两方面将的，架构变迁
 + [Nginx lua](http://www.slideshare.net/harukayon/ngx-lua-public) 日本人的ppt，主要讲了nginx处理请求的几个阶段
+
 
 ## 其他教程
 + [How to install OpenResty](http://www.nginxtips.com/how-to-install-openresty/) 不同平台的安装
@@ -28,6 +30,7 @@
 + [A Simple nameless blog engine](https://github.com/torhve/LuaWeb)
 + [OpenResty(ngx_lua)+Moochine 完整实例](https://github.com/appwilldev/moochine-demo)
 + [Simple API with Nginx and PostgreSQL](http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html)
+
 
 ## nginx 相关
 + [Emiller's Guide To Nginx Module Development](http://www.evanmiller.org/nginx-modules-guide.html) nginx 开发，了解nginx运作
