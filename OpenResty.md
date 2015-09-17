@@ -14,6 +14,9 @@
 + [lua & ngx_lua 的介绍与应用](http://www.slideshare.net/hugodotlau/lua-ngxlua) ppt 从lua 和 nginx两方面将的，架构变迁
 + [Nginx lua](http://www.slideshare.net/harukayon/ngx-lua-public) 日本人的ppt，主要讲了nginx处理请求的几个阶段
 
+## 视频
+[用OpenResty快乐的搭建高性能服务端](http://www.stuq.org/course/detail/1015) 第一次看到有人专题讲openresty的开发过程
+
 
 ## 其他教程
 + [How to install OpenResty](http://www.nginxtips.com/how-to-install-openresty/) 不同平台的安装
