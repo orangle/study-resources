@@ -1,4 +1,8 @@
-# [OpenResty](http://openresty.org/) 相关
+[OpenResty](http://openresty.org/)  
+=================================
+
+自从2015年底首次 OpenResty 大会 举行之后，or的学习资源越来越丰富，社区越来越强大。 通过google 搜索可以获取的资料越来越多，感谢春哥还有积极参与社区建设的大家。
+
 
 ## 重点推荐
 > 这里的看完，基本的概念和使用都会了。
@@ -15,8 +19,8 @@
 + [Nginx lua](http://www.slideshare.net/harukayon/ngx-lua-public) 日本人的ppt，主要讲了nginx处理请求的几个阶段
 
 ## 视频
-[用OpenResty快乐的搭建高性能服务端](http://www.stuq.org/course/detail/1015) 第一次看到有人专题讲openresty的开发过程
-
+* [用OpenResty快乐的搭建高性能服务端](http://www.stuq.org/course/detail/1015) 第一次看到有人专题讲openresty的开发过程
+* [iresty openresty 视频讲座集合](http://i.youku.com/u/UMjczNDA2MTYw) or官方国内视频订阅，包括or大会和meetup视频
 
 ## 其他教程
 + [How to install OpenResty](http://www.nginxtips.com/how-to-install-openresty/) 不同平台的安装
@@ -40,7 +44,9 @@
 
 ## 社区
 + [openresty-mail-list](https://groups.google.com/forum/#!forum/openresty) google 邮件列表
++ 微信以及QQ群 34782325 bbs [http://bbs.iresty.com](http://bbs.iresty.com)
 
 ## 资源集合
 + [Nginx Resources](https://github.com/fcambus/nginx-resources) 这也是git上的一个项目，各种nginx相关的资源链接
 + [awesome-resty](http://getawesomeness.com/get/openresty)  openresty 扩展的lua模块等资源的列表
++ [skill-map 学习资源](https://github.com/TeamStuQ/skill-map/issues/29) stuq issues 收集资源和框架
