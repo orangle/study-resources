@@ -42,10 +42,13 @@
 
 ## nginx 相关
 + [Emiller's Guide To Nginx Module Development](http://www.evanmiller.org/nginx-modules-guide.html) nginx 开发，了解nginx运作
++ [Nginx开发从入门到精通](https://github.com/taobao/nginx-book) 淘宝出的一本网络电子书
+
 
 ## 社区
 + [openresty-mail-list](https://groups.google.com/forum/#!forum/openresty) google 邮件列表
 + 微信以及QQ群 34782325 bbs [http://bbs.iresty.com](http://bbs.iresty.com)
+
 
 ## 资源集合
 + [Nginx Resources](https://github.com/fcambus/nginx-resources) 这也是git上的一个项目，各种nginx相关的资源链接
