@@ -9,7 +9,7 @@
 
 + [agentzh 的 Nginx 教程](http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html) 章哥的教程，可以作为开发基础，最好多看2遍，如果刚入门
 + [Presentations](http://openresty.org/#Presentations) 作者的演讲，ppt等信息，看完这里的ppt跟演讲，入门肯定没问题了
-+ [openresty 最佳实践](https://github.com/moonbingbing/openresty-best-practices) 国人写的openresty实践总结
++ [openresty 最佳实践](https://github.com/moonbingbing/openresty-best-practices) 国人写的openresty实践总结，这本书一致都在更新
 
 ## PPT
 + [Using ngx_lua in UPYUN](http://www.slideshare.net/timebug/using-ngxlua-in-upyun) ppt 架构
@@ -43,11 +43,17 @@
 ## nginx 相关
 + [Emiller's Guide To Nginx Module Development](http://www.evanmiller.org/nginx-modules-guide.html) nginx 开发，了解nginx运作
 + [Nginx开发从入门到精通](https://github.com/taobao/nginx-book) 淘宝出的一本网络电子书
++ [Nginx 高性能module开发](http://blog.csdn.net/column/details/nginx-module-develop.html) 陶辉老师的blog
+
+## 书籍
+
++ 《 深入理解Nginx：模块开发与架构解析 》 陶辉老师的书，讲nginx开发的书非常少了
++ 《 亿级流量网站核心架构技术 》开涛的书，有部分讲了openresty
 
 
 ## 社区
-+ [openresty-mail-list](https://groups.google.com/forum/#!forum/openresty) google 邮件列表
-+ 微信以及QQ群 34782325 bbs [http://bbs.iresty.com](http://bbs.iresty.com)
++ [openresty-mail-list](https://groups.google.com/forum/#!forum/openresty) google 邮件列表, 有问题去这里问题
++ 微信以及QQ群 34782325
 
 
 ## 资源集合

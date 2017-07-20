@@ -1,6 +1,7 @@
-Python  一些有用的资源
+Python 资源
 ===================
 
-## 资源整合页
 
-[Python and Cryptography](http://vermeulen.ca/python-cryptography.html)  python 加密解密库等
+## python 新鲜事
+* [importpython](http://importpython.com/newsletter/archive/)
+* [python weekly](http://us2.campaign-archive2.com/home/?u=e2e180baf855ac797ef407fc7&id=9e26887fc5)
