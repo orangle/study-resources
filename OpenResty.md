@@ -1,4 +1,4 @@
-[OpenResty](http://openresty.org/)  
+[OpenResty](http://openresty.org/)
 =================================
 
 自从2015年底首次 OpenResty 大会 举行之后，or的学习资源越来越丰富，社区越来越强大。 通过google 搜索可以获取的资料越来越多，感谢春哥还有积极参与社区建设的大家。
@@ -37,6 +37,7 @@
 + [A Simple nameless blog engine](https://github.com/torhve/LuaWeb)
 + [OpenResty(ngx_lua)+Moochine 完整实例](https://github.com/appwilldev/moochine-demo)
 + [Simple API with Nginx and PostgreSQL](http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html)
++ [nginx lua源码笔记系列](http://blog.liwenxin.com/) 源码分析，虽然比较早，但是对于原理性的东西还是比较到位的
 
 
 ## nginx 相关
