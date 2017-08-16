@@ -51,6 +51,8 @@ MySQL
 * [MySQL · 答疑解惑 · MySQL 优化器 range 的代价计算](http://mysql.taobao.org/monthly/2015/11/07/) 使用 optimizer trace 来分析一个代价计算的案例
 * [MySQL 5.7的新增功能白皮书（中文版）](https://mp.weixin.qq.com/s/pmycCxLM_9vzrMsX4eDFFQ) MySQL5.7 版本特性全面的介绍，如果还没有正式使用5.7版本，请仔细阅读阅读。
 * [MySQL Join算法与调优白皮书（四）](https://mp.weixin.qq.com/s/vt7YjxaikJh14pnY2FAWvg) 姜老师的系列文章，深入浅出的讲解了 MySQL join算法的原理和使用中需要注意的细节
+* [MySQL高可用浅析](http://www.jianshu.com/p/cc6746ac4fc2) 唐刘老师的对mysql复制部分的总结
+
 
 ### 案例分析
 
