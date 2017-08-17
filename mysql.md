@@ -40,12 +40,12 @@ MySQL
 经验分享，或者是针对一些问题的分析，解答
 
 * [大众点评订单分库分表](http://tech.meituan.com/dianping_order_db_sharding.html) 200g订单表开始做水平拆分的一些记录
-* [MySQL 排序内部原理](https://mp.weixin.qq.com/s?__biz=MzIyNjE4NjI2Nw==&mid=2652557990&idx=1&sn=e5b2c143d773cd0e4420de1ace4aee0c&chksm=f39a37d2c4edbec4ed525d1f86d5d35de7a5739cabd8b958af53b7932dd5c9169ec101f014c2&scene=0&key=7c064f74f0bf80ec47ab6cedb119db5fa8e8d56e157fb16bce08e3017cdac3bd67d0dcc4df07a9f925b2d31002de9a2d5b2a5508affb54113b3058dd161139ac65c236ddf5845b9138204bfb215f6ae9&ascene=0&uin=MjQzNzEzNzk2MA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12+build(16A323)&version=12010210&nettype=WIFI&fontScale=100&pass_ticket=P2Qz%2BOSituhRWPBF9IWLL4FfnD0nhhE9psvHyrYLA4ZNQ9GvxHRoEL3QrAs6XRDC)
-* [MySQL备份经验](https://mp.weixin.qq.com/s?__biz=MjM5MjIxNDA4NA==&mid=2649738038&idx=1&sn=48797e73f97a3b0cf896f17a8d1d8090&chksm=beb2d61d89c55f0b40b70c1129d680b19614016511a8afc9012fd523ac4cd226d136bace6793&scene=0&key=e3b1ba93cc346df072b7a305d9ae648a9a8c7b5e9c0ce63e802487d8f25e6035ee2c6cac040e26c5d267c1a26a6be2d49cfaf1a074d3d836946bc88f539d881fb59053a3f3fbe2f22d4e3dc23700718f&ascene=0&uin=MjQzNzEzNzk2MA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12+build(16A323)&version=12010210&nettype=WIFI&fontScale=100&pass_ticket=xZAobyDDGej7fYfqhO9OZREC2%2BwbfWFZtMFLOwxQ6EhMKVaMFDq1L%2BG%2F7oa2znp6) 线上紧急备份等的操作
-*  [Mysql操作规范](http://blog.itpub.net/29320885/viewspace-1716164/)
-*  [阿里云DBA专家门诊](https://bbs.aliyun.com/read/189202.html)  问题比较基础，特意提了下不要使用外键的事（当然也是看场景)
-*  [阿里云DBA专家门诊](https://bbs.aliyun.com/read/241176.html) 主要集中在覆盖索引
-*  [MySQL5.6新特性之Muti-Range Read](http://blog.itpub.net/22664653/viewspace-1673682/) 当看到执行计划中有 mrr的时候就是它了
+* [MySQL 排序内部原理](https://mp.weixin.qq.com/s/oVl0Ih86CWT77npdS5cF1g)
+* [MySQL备份经验](https://mp.weixin.qq.com/s/TxveGZK9o2QBEJbx1Vd9MA) 线上紧急备份等的操作
+* [Mysql操作规范](http://blog.itpub.net/29320885/viewspace-1716164/)
+* [阿里云DBA专家门诊](https://bbs.aliyun.com/read/189202.html)  问题比较基础，特意提了下不要使用外键的事（当然也是看场景)
+* [阿里云DBA专家门诊](https://bbs.aliyun.com/read/241176.html) 主要集中在覆盖索引
+* [MySQL5.6新特性之Muti-Range Read](http://blog.itpub.net/22664653/viewspace-1673682/) 当看到执行计划中有 mrr的时候就是它了
 * [为什么不建议innodb使用亿级大表](http://xiaorui.cc/2016/12/08/为什么不建议innodb使用亿级大表/) innodb的存储方式和索引方式
 * [MySQL大数据场景的优化和运维-美团DBA](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=209403337&idx=1&sn=f99429e24e8c591111a355e072f93e05) 非常多的可以参考和操作的内容，可以作为手册使用， 建议多看几遍
 * [联合查询中的驱动表问题](http://www.cnblogs.com/zhengyun_ustc/p/slowquery1.html)  不同的写法可能造成查询优化器无法选择正确的驱动表，从而整个查询的扫描范围增加，最后的目的就是用 `小结果集驱动大结果集`
@@ -55,6 +55,7 @@ MySQL
 * [MySQL 5.7的新增功能白皮书（中文版）](https://mp.weixin.qq.com/s/pmycCxLM_9vzrMsX4eDFFQ) MySQL5.7 版本特性全面的介绍，如果还没有正式使用5.7版本，请仔细阅读阅读。
 * [MySQL Join算法与调优白皮书（四）](https://mp.weixin.qq.com/s/vt7YjxaikJh14pnY2FAWvg) 姜老师的系列文章，深入浅出的讲解了 MySQL join算法的原理和使用中需要注意的细节
 * [MySQL高可用浅析](http://www.jianshu.com/p/cc6746ac4fc2) 唐刘老师的对mysql复制部分的总结
+* [MySQL半同步复制的数据一致性探讨](https://mp.weixin.qq.com/s/3DeXEd2ZjjutxRyo_3coaQ)
 
 
 ### 案例分析
