@@ -3,7 +3,7 @@ MySQL
 
 >  MySQL也有了几年了，说不出来个所以然，认知比较肤浅。所以需要加深学习呀，这里是学习过程中收集的一些好的资源，希望大家共同进步了。不是很系统的整理，看到了就记录了下来。
 
-官方文档必须要优先看滴呀！
+官方文档必须要优先看滴呀！[本文Github地址](https://github.com/orangle/study-resources)
 
 ## 博客
 前辈们的博客就是他们成长的足迹。
@@ -90,6 +90,14 @@ MySQL
 * [binlog2sql](https://github.com/danfengcao/binlog2sql) 大众点评，闪回和binlog解析sql,  还不错哦
 * [python-mysql-replication](https://github.com/noplay/python-mysql-replication) Mysql复制工具库，可以基于它开发很多东西了
 * [innotop](https://github.com/innotop/innotop) innodb引擎监控工具，perl语言的一个脚本
+* [orchestrator](https://github.com/github/orchestrator)
+
+
+## 项目
+
+* [phxsql](https://github.com/Tencent/phxsql/wiki) 微信开源的集群方案
+* [MyRocks](https://github.com/facebook/mysql-5.6/wiki) 使用rocksdb做为底层存储，上层实现sql引擎，思路很棒
+* [AliSQL](https://github.com/alibaba/AliSQL/wiki) 阿里开源，对mysql官方版本的增强版本
 
 ## 书籍 or doc
 
