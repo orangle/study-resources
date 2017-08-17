@@ -9,6 +9,7 @@ MySQL
 前辈们的博客就是他们成长的足迹。
 
 * [DimitriK's (dim)](http://dimitrik.free.fr/blog/archives/cat_mysql.html)
+* [MATSUNOBU Yoshinori](http://yoshinorimatsunobu.blogspot.ca/) MHA作者
 * [玄惭](http://hidba.org/) 阿里
 * [何登成](http://hedengcheng.com/) 阿里
 * [叶金荣](http://imysql.com/) 知数堂
@@ -25,6 +26,8 @@ MySQL
 * [四爷](http://blog.csdn.net/yueliangdao0608) msyql，pg很多对比
 * [smalldatum](http://smalldatum.blogspot.com) facebook， 很多myrocks文章
 * [宋利兵老师公众号](http://mp.weixin.qq.com/profile?src=3&timestamp=1485068751&ver=1&signature=97zp7qqm-wQSzWOAuHTac-wiNLUHTJMLOPyDgtnGluclBugccyOmXRDaBn2vTZ1pit9I9gfD5*T*dmzlHojIKw==) 宋利兵老师公众号 Oracle， innodb原理分析
+* [Jean-François Gagné](http://jfg-mysql.blogspot.ca/) Booking.com 的数据库工程师
+
 * [淘宝数据库内核月报](http://mysql.taobao.org/monthly/)
 * [planet mysql 中文](https://planet.mysql.com/zh/)
 * [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
