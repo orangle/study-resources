@@ -78,6 +78,8 @@ MySQL
 * [Query Optimization with MySQL 5.6: Old and New Tricks](https://www.slideshare.net/jynus/query-optimization56)
 * [Advanced MySQL Query Tuning](https://www.slideshare.net/AlexanderRubin1/meetup-tour-queryoptimizationnew)
 * [Mysql query optimization](https://www.slideshare.net/caibaohua/mysql-query-optimization-4719028)
+* [MySQL秒杀场景优化--杨德华](https://github.com/ThinkDevelopers/PHPConChina/blob/master/PHPCON2017/MySQL%E7%A7%92%E6%9D%80%E5%9C%BA%E6%99%AF%E4%BC%98%E5%8C%96--%E6%9D%A8%E5%BE%B7%E5%8D%8E%40PHPCON2017.pdf) phpconchina2017的一个演讲，视频地址是[这里](http://www.itdks.com/dakalive/detail/2291), 通过秒杀场景中的库存问题来说明线程池和死锁问题的知识
+
 
 ## videos
 
